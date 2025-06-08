@@ -1,0 +1,1 @@
+console.log('AMST Beta app loaded');
